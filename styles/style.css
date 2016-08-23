@@ -1,0 +1,74 @@
+.top-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+  font-size: 15px;
+}
+
+.top-link {
+  display: inline;
+}
+
+.top-link a {
+  padding: 8px;
+  text-decoration: none;
+  color: black;
+}
+
+.left-nav {
+  list-style-type: none;
+  margin: 15px;
+  text-align: left;
+  font-size: 15px;
+  bottom: 0;
+  position: absolute;
+}
+
+.right-nav {
+  list-style-type: none;
+  margin: 15px;
+  text-align: right;
+  font-size: 15px;
+  bottom: 0;
+  position: absolute;
+}
+
+.nav-link {
+  display: inline-block;
+}
+
+.nav-link a {
+  padding: 8px;
+  text-decoration: none;
+  color: black;
+}
+
+.main-logo {
+  margin: auto;
+  display: block;
+  padding: 150px 0 150px 0;
+  width: 300px;
+}
+
+.search {
+  display: inline-block;
+  border: none;
+  padding: 10px 10px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.search-bar {
+  height: 35px;
+  width: 500px;
+}
+
+form {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+p {
+  display: block;
+}
